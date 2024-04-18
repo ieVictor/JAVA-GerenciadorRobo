@@ -8,7 +8,7 @@ During the project implementation, it was requested to remove two robots to stre
 
 ## Robôs 🤖
 **Domestic robot** that stores operational information and manages a list of reminders.
-- [Assistent]()
+- [Assistent](Assistant.md)
 
 Gerenciador de robôs articulados
 - [Articulated]()
