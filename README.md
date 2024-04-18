@@ -1,12 +1,11 @@
 # Gerenciador Robô
-Projeto desenvolvido para por em prática conceitos de programação orientada a objetos.
-Para este projeto foi pedido que não fosse utilizado os packages. 
+The project was developed to put into practice the concepts of **Object-Oriented Programming (OOP)**. For this project, it was requested `not to use any packages.` 
 
-## Diagrama do projeto 🗃️
-[Inserir o diagrama aqui]()
+## Project Diagram 🗃️
+[Diagram](images/diagram.png)
 
 ## Robôs 🤖
-Robô domestico que guarda informações de funcionamento e gerencia uma lista de lembretes.
+**Domestic robot** that stores operational information and manages a list of reminders.
 - [Assistent]()
 
 Gerenciador de robôs articulados
